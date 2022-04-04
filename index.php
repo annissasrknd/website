@@ -11,8 +11,8 @@
 	<div class="head">
 		<h1>Lee Hi - Artistics</h1>
 		<a href="">HOME</a>
-		<a href="portofolio.html">PORTFOLIO</a>
-		<a href="index.html#About">ABOUT</a>
+		<a href="portofolio.php">PORTFOLIO</a>
+		<a href="index.php#About">ABOUT</a>
 	</div>
 	<!-- end head -->
 
