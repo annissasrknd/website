@@ -30,32 +30,7 @@
 	</div>
 	<!-- End info -->
 
-	<!-- start slideshow -->
-	<div class="slide">
-		<div class="content" style="max-width:1200px">
-
-		  <div class="row-padding section">
-		    <div class="col s4">
-		      <img class="demo opacity hover-opacity-off" src="img/1.jpg" width="100" height="50" style="cursor:pointer" onclick="currentDiv(1)">
-		    </div>
-		    <div class="col s4">
-		      <img class="demo opacity hover-opacity-off" src="img/2.jpg" width="100" height="50" style="cursor:pointer" onclick="currentDiv(2)">
-		    </div>
-		    <div class="col s4">
-		      <img class="demo opacity hover-opacity-off" src="img/3.jpg" width="100" height="50" style="cursor:pointer" onclick="currentDiv(3)">
-		    </div>
-		    
-		  </div>
-		 <div class="page">
-			<h2>Foto Foto Lee Hi</h2>
-			<h5>Details to details is what makes Hexashop different from the other themes.</h5>
-			<img class="mySlides" src="img/1.jpg" style="display: none;" width="500" height="500">
-			<img class="mySlides" src="img/2.jpg" width="500" height="500">
-			<img class="mySlides" src="img/3.jpg" style="display: none;" width="500" height="500">
-		 </div>
-		</div>
-	</div> 
-	<!-- End Slideshow -->
+	 
 
 	<!-- Start album -->
  <div class="bordered">
@@ -90,10 +65,10 @@
 			<blockquote>`Apakah penting membandingkan siapa yang lebih baik antara aku atau yang lainnya?</blockquote>
 		</div>
 		<div class="grid-2">
-				<a href=""><img src="img/19.jpg" class="img2" width="200" height="200 "></img></a>
-				<a href=""><img src="img/8.jpg" class="img2" width="200" height="200"></img></a>
-				<a href=""><img src="img/15.jpg" class="img3" width="200" height="200"></img></a>
-				<a href=""><img src="img/17.jpg" class="img3" width="200" height="200"></img></a>
+				<a href=""><img src="img/leho.jpg" class="img2" width="200" height="200 "></img></a>
+				<a href=""><img src="img/bre.png" class="img2" width="200" height="200"></img></a>
+				<a href=""><img src="img/16.jpeg" class="img3" width="200" height="200"></img></a>
+				<a href=""><img src="img/18.jpg" class="img3" width="200" height="200"></img></a>
 			</div>
 		</div>
 		  <div class="contact" id="Contact">
