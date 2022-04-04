@@ -62,23 +62,23 @@
  	<h2 class="h2" style="text-align: center;">Album</h2>
 		<div class="album">
 			<figure>
-				<a href="https://www.joox.com/id/search/first%20love%20lee%20hi"> <img src="img/first_love.jpg" class="img4" width="200" height="200 "></img></a>
+				<a href="https://www.joox.com/id/search/first%20love%20lee%20hi" target="_blank"> <img src="img/first_love.jpg" class="img4" width="200" height="200 "></img></a>
 				 <figcaption>First Love</figcaption>	
 				  </figure>
 			<figure>
-				 <a href="https://www.joox.com/id/album/QJHpa9UVTv7wdf64UjBNYw=="><img src="img/seoulite.jpg" class="img4" width="200" height="200"></img></a>
+				 <a href="https://www.joox.com/id/album/QJHpa9UVTv7wdf64UjBNYw==" target="_blank"><img src="img/seoulite.jpg" class="img4" width="200" height="200"></img></a>
 				 <figcaption>Seoulite</figcaption>	
 			</figure>
 			<figure>
-				 <a href="https://www.joox.com/id/single/ckU+p8YRR7Dz_kAsutIsTA=="><img src="img/japan_debut_album-2018.jpg" class="img4" width="200" height="200"></img></a>
+				 <a href="https://www.joox.com/id/single/ckU+p8YRR7Dz_kAsutIsTA==" target="_blank"><img src="img/japan_debut_album-2018.jpg" class="img4" width="200" height="200"></img></a>
 				 <figcaption>Japan Debut Album 2018</figcaption>	
 			</figure>
 			<figure>
-				<a href="https://www.joox.com/id/album/JvyRgiUR2hrgvb3sfN9PXA=="><img src="img/24.jpg" class="img4" width="200" height="200"></img></a>
+				<a href="https://www.joox.com/id/album/JvyRgiUR2hrgvb3sfN9PXA==" target="_blank"><img src="img/24.jpg" class="img4" width="200" height="200"></img></a>
 				 <figcaption>24 &deg; C</figcaption>	
 			</figure>
 			<figure>
-					<a href="https://www.joox.com/id/album/MXRMGW8oOcJNQhHZZyf5fg=="><img src="img/only.png" class="img4" width="200" height="200"></img></a>
+					<a href="https://www.joox.com/id/album/MXRMGW8oOcJNQhHZZyf5fg==" target="_blank"><img src="img/only.png" class="img4" width="200" height="200"></img></a>
 				 <figcaption>4 Only</figcaption>	
 			</figure>
 		</div>
