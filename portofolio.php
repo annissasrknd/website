@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<title>Lee Hi - Blog</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 </head>
 <body>
@@ -212,13 +213,13 @@
 		    	 		<tr>
 		    	 			<td>2012</td>
 		    	 			<td>World's Best Song</td>
-		    	 			<td>1,2,3,4</td>
+		    	 			<td>"1,2,3,4"</td>
 		    	 			<td>Nominasi</td>
 		    	 		</tr>
 <tr>
 		    	 			<td>2012</td>
 		    	 			<td>World's Best Video</td>
-		    	 			<td>1,2,3,4</td>
+		    	 			<td>"1,2,3,4"</td>
 		    	 			<td>Nominasi</td>
 		    	 		</tr>
 		    	 	</tbody>
@@ -240,13 +241,13 @@
 <tr>
 		    	 			<td>2013</td> 
 		    	 			<td>Best Rookie Awards</td>
-		    	 			<td>1,2,3,4</td>
+		    	 			<td>"1,2,3,4"</td>
 		    	 			<td>Menang</td>
 		    	 		</tr>
 <tr>
 		    	 			<td>2017</td>
 		    	 			<td>Digital Bonsang</td>
-		    	 			<td>Breathe</td>
+		    	 			<td>"Breathe"</td>
 		    	 			<td>Menang</td>
 		    	 		</tr>
 		    	 	</tbody>
@@ -266,7 +267,7 @@
 		    	 		<tr>
 		    	 			<td>2013</td>
 		    	 			<td>Best Rookie Awards</td>
-		    	 			<td>1,2,3,4</td>
+		    	 			<td>"1,2,3,4"</td>
 		    	 			<td>Menang</td>
 		    	 		</tr>
 		    	 	</tbody>
@@ -308,13 +309,13 @@
 		    	 		<tr>
 		    	 			<td>2013</td>
 		    	 			<td>Song Of The Year of November</td>
-		    	 			<td>1,2,3,4</td>
+		    	 			<td>"1,2,3,4"</td>
 		    	 			<td>Menang</td>
 		    	 		</tr>
  		    <tr>
 		    	 			<td>2016</td>
 		    	 			<td>Song Of The Year of March</td>
-		    	 			<td>Breathe</td>
+		    	 			<td>"Breathe"</td>
 		    	 			<td>Nominasi</td>
 		    	 		</tr>
 		    	 	</tbody>
@@ -346,13 +347,13 @@
  		    			<tr>
 		    	 			<td>2013</td> 
 		    	 			<td>Best Vocal Performance - Female</td>
-		    	 			<td>1,2,3,4</td>
+		    	 			<td>"1,2,3,4"</td>
 		    	 			<td>Nominasi</td>
 		    	 		</tr>
  		   				 <tr>
 		    	 			<td>2013</td> 
 		    	 			<td>BC - UnionPay Song of the Year</td>
-		    	 			<td>1,2,3,4</td>
+		    	 			<td>"1,2,3,4"</td>
 		    	 			<td>Nominasi</td>
 		    	 		</tr>
  		   				 <tr>

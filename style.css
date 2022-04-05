@@ -298,6 +298,33 @@ i{
     text-align:center;
     padding-bottom:20px;
   }
+
+  .info{
+  	display: block;
+  }
+
+  .info .grid-1{
+  	width: 200;
+
+  }
+
+  img{
+  	max-width: 100%;
+  	height: auto;
+  }
+
+  .bordered{
+  	display: inline-block;
+  }
+  .h2{
+  	text-align: center;
+  }
+
+  .album{
+  	max-width: 100%;
+  	padding: 0;
+  	margin: 0;
+  }
 }
 
 .footer-dark .item.text {
@@ -307,6 +334,21 @@ i{
 @media (max-width:767px) {
   .footer-dark .item.text {
     margin-bottom:0;
+  }
+
+  .album{
+  	max-width: 100%;
+  	padding: 0;
+  	margin: 0;
+  }
+
+  .info{
+  	display: block;
+  }
+
+  img{
+  	max-width: 100%;
+  	height: auto;
   }
 }
 
@@ -323,6 +365,21 @@ i{
   .footer-dark .item.social {
     text-align:center;
     margin-top:20px;
+  }
+
+  .album{
+  	max-width: 100%;
+  	padding: 0;
+  	margin: 0;
+  }
+
+  .info{
+  	display: block;
+  }
+
+  img{
+  	max-width: 100%;
+  	height: auto;
   }
 }
 

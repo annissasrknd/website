@@ -3,6 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<title>Lee Hi - Blog</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
 </head>
@@ -62,7 +63,8 @@
 	<!-- End album -->
 		<div class="info">
 		<div class="grid-4">
-			<blockquote>`Apakah penting membandingkan siapa yang lebih baik antara aku atau yang lainnya?</blockquote>
+			<span>'Apakah penting membandingkan siapa yang lebih baik antara aku atau yang lainnya?'</span><br>
+			<br>
 		</div>
 		<div class="grid-2">
 				<a href=""><img src="img/leho.jpg" class="img2" width="200" height="200 "></img></a>
