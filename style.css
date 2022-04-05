@@ -320,11 +320,11 @@ i{
   	text-align: center;
   }
 
-  .album{
-  	max-width: 100%;
-  	padding: 0;
-  	margin: 0;
-  }
+  
+.bordered .album{
+	display: -moz-inline-box;
+}
+ 
 }
 
 .footer-dark .item.text {
@@ -336,11 +336,9 @@ i{
     margin-bottom:0;
   }
 
-  .album{
-  	max-width: 100%;
-  	padding: 0;
-  	margin: 0;
-  }
+  .bordered .album{
+	display: -moz-inline-box;
+}
 
   .info{
   	display: block;
@@ -367,11 +365,9 @@ i{
     margin-top:20px;
   }
 
-  .album{
-  	max-width: 100%;
-  	padding: 0;
-  	margin: 0;
-  }
+  .bordered .album{
+	display: -moz-inline-box;
+}
 
   .info{
   	display: block;
